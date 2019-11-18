@@ -1,0 +1,77 @@
+<!doctype html>
+<html ⚡ lang="de">
+
+<head>
+  {% include head-static-meta-link-script.html %}
+  <title>WG Nürnberg Studenten WG's und WG Zimmer - Zimmer {{ page.zimmerid }} in WG {{ page.wgname }} {{ page.objekthausnummer }} {{ page.wggeschoss }}</title>
+  <meta name="description" content="{{ content }}">
+  <!--<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Webpage",
+      "url": "https://www.example.com",
+      "name": "My Webpage",
+      "headline": "webpage title",
+      "description": "Here is the description",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.example.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Publisher",
+        "logo": {
+          "url": "https://www.example.com/logo-blue.svg",
+          "width": 175,
+          "height": 60,
+          "@type": "ImageObject"
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www.example.com/leader.png",
+        "width": 1200,
+        "height": 630
+      }
+    }
+  </script>-->
+</head>
+
+<body>
+  <div id="content" class="container">
+    {% include logo-fb.html %}
+    <ul class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="../#unsere-wgs">Home</a>
+      </li>
+      <li class="breadcrumb-item">
+        <a href="./">WG {{ page.wgname }} {{ page.objekthausnummer }} {{ page.wggeschoss }}</a>
+      </li>
+      <li class="breadcrumb-item">
+        <a href="#">{{ page.zimmerid }}</a>
+      </li>
+    </ul>
+    <h1>Zimmer {{ page.zimmerid }}</h1>
+    {{ content }}
+    {% include zimmer-details.html %}
+    <h2>Bilder von {{ page.zimmerid }}</h2>
+    {% assign append_var = "/zimmer/" | append: page.zimmerid %}
+    {% include images.html %}
+    <h2>Grundrisse</h2>
+    {% assign append_var = "/grundrisse/" %}
+    {% include grundrisse.html %}
+    <h2>Allgemeinflächen</h2>
+    {% include wg-details.html %}
+    <h2>Bilder von WG {{ page.wgname }} {{ page.objekthausnummer }} {{ page.wggeschoss }}</h2>
+    {% assign append_var = "/allgemein/" %}
+    {% include images.html %}
+    {% include zimmer-tabelle.html %}
+    {% include lage-tabelle.html %}
+    <br><br>
+    {% include banner.html %}
+    {% include footer.html %}
+  </div>
+  {% include amp-analytics.html %}
+</body>
+
+</html>

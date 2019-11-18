@@ -1,0 +1,27 @@
+<section>
+  <h2>Unsere WG's</h2>
+  <table class="table table-striped table-hover">
+    <thead>
+      <tr>
+        <th>WG</th>
+        <th class="text-center">Mitbewoh.</th>
+        <th class="text-center">+m²*</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for w in site.wg %}
+      <tr>
+        <td><span class="label label-primary">{{ w.wgname }} {{ w.objekthausnummer }} {{ w.wggeschoss }}</span></td>
+        <td class="text-center"><span class="label label-secondary">{{ w.wgzimmer | minus: 1 }}</span></td>
+        <td class="text-center"><span class="label label-secondary">{{ w.wgqm }}m²</span></td>
+        <td class="text-center"><a href="{{ w.wgparam }}" class="btn">Ansehen</a></form>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <div class="toast toast-primary text-center">
+    <p>* Quadratmeter der Allgemeinflächen die es kostenlos zum Zimmer dazu gibt.</p>
+  </div>
+</section>

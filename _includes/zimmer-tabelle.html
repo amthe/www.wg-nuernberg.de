@@ -1,0 +1,29 @@
+<section>
+    <h2>Zimmer in der WG</h2>
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Zimmer</th>
+                <th class="text-center">m²</th>
+                <th class="text-center">+m²*</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for z in site.zimmer %}
+            {% if z.wgparam ==  page.wgparam  %}
+            <tr>
+                <td><span class="label label-primary">{{ z.zimmerid }}</span></td>
+                <td class="text-center"><span class="label label-secondary">{{ z.zimmerqm }}m²</span></td>
+                <td class="text-center"><span class="label label-secondary">{{ z.wgqm }}m²</span></td>
+                <td class="text-center"><a href="{{ z.zimmerparam }}" class="btn">Ansehen</a></form>
+                </td>
+            </tr>
+            {% endif %}
+            {% endfor %}
+        </tbody>
+    </table>
+    <div class="toast toast-primary text-center">
+        <p>* Quadratmeter der Allgemeinflächen die es kostenlos zum Zimmer dazu gibt.</p>
+    </div>
+</section>

@@ -1,0 +1,22 @@
+mogrify -path OUTPUT_PATH -filter Triangle -define filter:support=2 -thumbnail OUTPUT_WIDTH -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip INPUT_PATH
+
+http://maperitive.net
+https://maposmatic.osm-baustelle.de/new/
+
+
+https://codepen.io/yoksel/details/JDqvs/
+https://jakearchibald.github.io/svgomg/
+
+Bei diesem Bild kann es sich um ein baugleiches Zimmer handeln.
+
+
+
+        body{
+          background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='724' height='960' version='1' viewBox='0 0 0 0 724 0 960'%3E%3Cpath fill='%23FFF' d='M0 0h724v960H0z'/%3E%3Cpath fill='%23F1F1F1' d='M0 301l504-192v64L0 488V301z'/%3E%3Cpath fill='%23F5F5F5' d='M724 127L220-65V0l504 314V127z'/%3E%3C/svg%3E");
+          background-attachment: scroll;
+          background-size: contain;
+          background-repeat: no-repeat;
+        }
+        .card{
+          border:.05rem solid #ffffff;
+        }   

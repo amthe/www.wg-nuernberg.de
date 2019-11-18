@@ -1,0 +1,31 @@
+Im Ordner alle in Nummer umbenennen
+ls -v | cat -n | while read n f; do mv -n "$f" "$n.jpg"; done
+O als Prefix
+for f in *.jpg; do mv -n "$f" "o-$f"; done
+selbes recursive
+for file in $(find . -name '*.jpg'); do mv $file $(dirname $file)/o_$(basename $file); done
+
+rename -v -n 's/o_//' *
+
+
+for f in *.jpg;
+do 
+convert -resize 115x115^ -gravity center -extent 115x115 "$f"[0] "115-${f%}";
+convert -resize 320x320^ -gravity center -extent 320x320 "$f"[0] "320-${f%}";
+convert -resize 640 "$f"[0] "640-${f%}";
+convert -resize 1024 "$f"[0] "1024-${f%}";
+convert -resize 1366 "$f"[0] "1366-${f%}";
+convert -resize 1600 "$f"[0] "1600-${f%}";
+convert -resize 1920 "$f"[0] "1920-${f%}";
+done
+
+for f in *.jpg; \
+do \
+convert -resize 115x115^ -gravity center -extent 115x115 "$f"[0] "115-${f%}"; \
+convert -resize 320x320^ -gravity center -extent 320x320 "$f"[0] "320-${f%}"; \
+convert -resize 640 "$f"[0] "640-${f%}"; \
+convert -resize 1024 "$f"[0] "1024-${f%}"; \
+convert -resize 1366 "$f"[0] "1366-${f%}"; \
+convert -resize 1600 "$f"[0] "1600-${f%}"; \
+convert -resize 1920 "$f"[0] "1920-${f%}"; \
+done

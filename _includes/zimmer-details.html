@@ -1,0 +1,51 @@
+<section>
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Zimmer Info</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Zimmernummer</td>
+                <td>{{ page.zimmerid }}</td>
+            </tr>
+            <tr>
+                <td>Quadratmeter</td>
+                <td>{{ page.zimmerqm }}</td>
+            </tr>
+            {% if page.zimmerabstellraum == 1 %}<tr>
+                <td>Abstellraum</td>
+                <td>vorhanden</td>
+            </tr>{% endif %}
+            <tr>
+                <td>Ausrichtung</td>
+                <td>
+                    {% case page.zimmerausrichtung %}
+                    {% when 1 %}
+                    zur Straße
+                    {% when 2 %}
+                    zum Hinterhof
+                    {% when 3 %}
+                    zur Fußgängerzone
+                    {% when 4 %}
+                    Flachdach
+                    {% when 5 %}
+                    Dachterrasse/Flachdach
+                    {% when 6 %}
+                    zur Dachterrasse
+                    {% when 7 %}
+                    zum Atrium
+                    {% else %}
+                    This is not a cake nor a cookie
+                    {% endcase %}
+                </td>
+            </tr>
+            <tr>
+                <td>Fenster</td>
+                <td>{{ page.zimmerfenster }}</td>
+            </tr>
+        </tbody>
+    </table>
+</section>

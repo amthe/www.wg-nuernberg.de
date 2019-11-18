@@ -1,0 +1,9 @@
+{% assign image_files = site.static_files %}
+{% for myimage in image_files %}
+{% assign match_string = "/assets/img/" | append: page.wgparam | append: append_var %}
+{% if myimage.path contains match_string %}
+{% if myimage.extname == ".jpg" %}
+<amp-img lightbox src="{{ myimage.path }}" class="img-fit-cover ..." width="345" height="345" ></amp-img>
+{% endif %}        
+{% endif %}
+{% endfor %}

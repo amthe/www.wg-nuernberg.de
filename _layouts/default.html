@@ -1,0 +1,427 @@
+<!doctype html>
+<html ⚡ lang="de">
+
+<head>
+  {% include head-static-meta-link-script.html %}
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" sizes="any">
+  <title>WG Nürnberg Studenten WG's und WG Zimmer in Nürnberg</title>
+  <meta name="description"
+    content="Die WG Zimmer liegen in Mitten der Altstadt von Nürnberg. Ob zum Einkaufen, zum Weggehen oder zu Uni. Du bist überall in wenigen Minuten. Damit sparst du dir die Kosten für öffentliche Verkehrsmittel">
+  <!--<script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Webpage",
+        "url": "https://www.example.com",
+        "name": "My Webpage",
+        "headline": "webpage title",
+        "description": "Here is the description",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.example.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "The Publisher",
+          "logo": {
+            "url": "https://www.example.com/logo-blue.svg",
+            "width": 175,
+            "height": 60,
+            "@type": "ImageObject"
+          }
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.example.com/leader.png",
+          "width": 1200,
+          "height": 630
+        }
+      }
+      </script>-->
+</head>
+
+<body>
+  <div id="content" class="container">
+    {% include logo-fb.html %}
+    <h1>WG Zimmer in Nürnberg</h1>
+    <p>"Bei uns mietest du ein abschließbares Zimmer und bekommst Allgemeinﬂächen dazu. Auf den Allgemeinﬂächen, die aus
+      Küche, Bad und Fluren bestehen, triﬀst du dann automatisch andere Studenten und <b>hast direkt Anschluß</b>. In
+      anderen Wohngemeinschaften bist du in der Nähe von anderen Studenten, aber dann doch wieder nur allein. Wir können
+      dadurch, dass die Allgemeinﬂächen geteilt werden, eine <b>bessere Lage und günstigere Preise anbieten</b>. Wir
+      haben eine absolute Innenstadtlage, Fußgängerzone, 5 Minuten vom Hauptbahnhof und wir betreiben Wohngemeinschaften
+      seit dem Jahr 2000."</p>
+
+    <h2 id="vorteile">Deine Vorteile</h2>
+    <div class="columns">
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-image">
+              {% assign image_var = "/wg-stern-4/allgemein/o_24.jpg" %}
+              {% include specific_image.html %}
+          </div>
+          <div class="card-header">
+
+            <div class="card-title h5">Sofort Anschluß finden</div>
+            <div class="card-subtitle text-gray">Das Zusammenleben</div>
+          </div>
+          <div class="card-body">
+            Lerne neue Leute kennen und lieben. Ob in der WG-Küche oder auf der Dachterrasse, die WGs und unsere
+            einzigartigen Allgemeinﬂächen sind dein neuer Mittelpunkt.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#zusammenleben">Mehr erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-image">
+              {% assign image_var = "wg-stern-1/allgemein/o_14.jpg" %}
+              {% include specific_image.html %}
+            <!--
+            <amp-img alt="webp" src="wg-stern-4-kueche-abend.webp" width="1024" height="768" layout="responsive"
+              srcset="wg-stern-4-kueche-abend.webp 500w">
+              <amp-img alt="fallback" fallback src="wg-stern-4-kueche-abend.jpg" width="1024" height="768"
+                layout="responsive" srcset="wg-stern-4-kueche-abend.jpg 500w"></amp-img>
+            </amp-img>
+            -->
+          </div>
+          <div class="card-header">
+            <div class="card-title h5">Preis und Leistung</div>
+            <div class="card-subtitle text-gray">ein volles Paket</div>
+          </div>
+          <div class="card-body">
+            Wenn du die Wohnformen für Studenten vergleichst, wirst du sehen, dass die WG Nürnberg das Paket geschnürt
+            hat, das die meisten Vorteile bringt. Kein Wunder,wir sind auch seit 2000 auf dem Markt.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#preis-leistung">Mehr erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+            <div class="card-image">
+                {% assign image_var = "wg-gras-21-3/allgemein/o_13" %}
+                {% include specific_image.html %}
+            </div>
+          <div class="card-header">
+            <div class="card-title h5">Beste Lage</div>
+            <div class="card-subtitle text-gray">5 Minuten vom Hauptbahnhof</div>
+          </div>
+          <div class="card-body">
+            Die WGs liegen in Mitten der Altstadt von Nürnberg. Ob zum Einkaufen, zum Weggehen oder zu Uni. Du bist
+            überall in wenigen Minuten. Damit sparst du dir Kosten für die U-Bahn, das Auto oder fürs Taxi. Viele
+            unserer Zimmer haben auch eine WG-eigene Dachterrasse. Das ist Lebensqualität pur.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#lage">Mehr erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+            <div class="card-image">
+                {% assign image_var = "wg-klara-4/allgemein/o_2.jpg" %}
+                {% include specific_image.html %}
+            </div>
+          <div class="card-header">
+            <div class="card-title h5">Sicherheit</div>
+            <div class="card-subtitle text-gray">auf Studenten zugeschnitten</div>
+          </div>
+          <div class="card-body">
+            Bei uns zu wohnen bedeutet für dich neben den offensichtlichen Vorzügen auch maximale Sicherheit. Und das
+            aus wirtschaftlicher, juristischer und tatsächlicher Sicht.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#sicherheit">Mehr erfahren</a></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h2 id="lage">Lage</h2>
+    <div class="columns">
+      <div class="column col-xs-12 col-12">
+        <div class="card">
+          <div class="card-body">
+            {% include lage-tabelle.html %}
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h2 id="zusammenleben">Zusammenleben mit Mitstudenten</h2>
+    <div class="columns">
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Ob Küche oder Dachterrasse</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Du beginnst einen neuen Lebensabschnitt, ziehst von zuhause aus, vielleicht sogar in eine neue Stadt. Wenn
+            du in der WG Nürnberg wohnst, bist du nicht alleine. Lerne neue Leute kennen, ob in eurer Küche oder auf
+            einer der Dachterrassen. Um dich herum wohnen nur Studenten in deinem Alter. So findest du schnell Anschluss
+            und du erlebst eine tolle Zeit.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Gemeinsame Unternehmungen</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Niemand muss, jeder kann. So ist die Devise bei den gemeinsamen Aktivitäten. Ob Ausflüge, abendliches
+            Beisammensein, Sport oder einfach nur gemeinsam zur Uni gehen. Wir sehen die WG als einen Ort, an dem
+            Verbindungen entstehen.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Mitbewohner</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Du lebst unter Gleichgesinnten, alle Mitbewohner studieren und haben die Wohnform "WG" für sich gewählt.
+            Somit habt ihr gleiche Gesprächsthemen und Verständnis für die Sorgen und Probleme der anderen. So werden
+            aus Mitbewohnern Freunde fürs Leben. Genießt eure Zeit.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Sozialkompetenz</div>
+            <div class="card-subtitle text-gray">Fürs Leben lernen</div>
+          </div>
+          <div class="card-body">
+            Wir sind kein Hotel, du wirst dich um dein Zimmer und die Allgemeinflächen selbst kümmern. Du musst dich mit
+            deinen Mitbewohnern arrangieren, da muss auch einmal etwas angesprochen werden. z.B. wenn jemand dreckiges
+            Geschirr in der Küche liegen lässt. Die Sozialkompetenz die du hier lernst kann dir keiner mehr nehmen.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <h2 id="preis-leistung">Preis und Leistung</h2>
+    <div class="columns">
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Günstigste Alternative</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Wenn du Wohnformen für Studenten vergleichst, wirst du sehen, dass die WG die preislich attraktivste Form,
+            und die WG Nürnberg die günstigste Variante davon, ist. Gerne vergessen wird das wir aufgrund der
+            Zusatzleistungen und der einmaligen Lage die Gesamtkosten fürs Studium drücken. Bei uns fallen Kosten für
+            Öffentliche Verkehrsmittel weg und durch freies Wifi und Waschmaschinen TODO
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Einfacher Einstieg</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Die Anmietung ist völlig unkompliziert. Bei uns bist du ohne WG Erfahrung, ohne festes Einkommen und ohne
+            lästiges Casting willkommen. Einfach Formular ausfüllen. Du kannst mit und ohne Besichtigung anmieten. Wie
+            du willst.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Volles Paket</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Bei der WG Nürnberg zu mieten heißt auch, dass wir dir nicht nur viel Arbeit abnehmen, sondern auch viele
+            Kosten. Wir bieten dir:
+
+            <li>Keine Provision.</li>
+            <li>Keine Abschlagszahlungen</li>
+            <li>Keine Reparatur und Wartungskosten, z.B. für Waschmaschine.*</li>
+            <li>Keine Kosten, einen Nachmieter zu suchen.</li>
+            <li>Keine Nebenkosten für Heizung und Strom.
+              und damit auch keine Nachzahlungen.</li>
+            <li>Wir stellen sogar High-Speed WiFi kostenlos zur Verfügung.</li>
+            <li>Wenn du möchtest, bieten wir dir auch möblierte Zimmer an.</li>
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Perfekt auf dich zugeschnitten</div>
+            <div class="card-subtitle text-gray"></div>
+          </div>
+          <div class="card-body">
+            Wir wissen, dass unsere Studenten unterschiedliche Bedürfnisse haben, das ist abhängig von ihrer aktuellen
+            Lebenssituation. Und genau deswegen lohnt es sich, bei der WG Nürnberg zu mieten. Wenn du in eine andere
+            Stadt oder ins Ausland möchtest, kannst du dein Zimmer untervermieten. Du hast keinen Verwaltungsaufwand
+            damit, keine Kosten oder Mühen. Und sollte es dir in einer WG gar nicht gefallen, kannst du zwischen den WGs
+            und Gebäuden umziehen.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+
+    <h2 id="sicherheit">Sicherheit</h2>
+    <div class="columns">
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Planungssicherheit</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Mache dir keine Sorgen um finanzielle Risiken, denn wenn du ein Zimmer bei der WG Nürnberg hast, musst du
+            dir keine Sorgen machen. So gibt es bei uns während der Mietlaufzeit keine Mieterhöhungen oder
+            Nebenkostennachzahlungen. Stell dir vor, ein Mitbewohner zieht aus und das Zimmer steht leer oder die WG
+            muss sich dadurch auflösen? Oder die Waschmaschine geht kaputt*. Panik? Nein, denn die WG Nürnberg übernimmt
+            die Kosten. Ist das nicht genial?
+            (*) Nicht bei mutwilliger Beschädigung.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Geringes Risiko</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Du möchtest während deines Studiums ins Ausland oder du hast dich für das falsche Studium entschieden? Die
+            kurze Kündigungsfrist von 3 Monaten hilft dir, dein Leben so spontan wie möglich zu organisieren und
+            schränkt dich damit nicht ein. In vielen Fällen finden wir schneller einen Nachmieter, somit verkürzt sich
+            deine Kündigungsfrist automatisch.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Rechtssicherheit</div>
+            <div class="card-subtitle text-gray">Fehlt</div>
+          </div>
+          <div class="card-body">
+            Bei privat organisierten WGs stehst du automatisch in der Haftung für viele Situationen, z.B. wenn ein
+            Mitbewohner die Miete nicht zahlen kann. Dieses Risiko übernehmen wir ebenso für dich.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="column col-xs-12 col-6">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title h5">Physische Sicherheit</div>
+            <div class="card-subtitle text-gray"></div>
+          </div>
+          <div class="card-body">
+            Oft vergessen, aber wichtig zu erwähnen, ist Sicherheit im eigentlichen Sinne. Also: Wie wohl fühlst du
+            dich, wenn du Abends heim kommst und die Tür zumachst. Hier haben wir viele Vorkehrungen getroffen, dir dein
+            Leben in der WG so sicher und damit so angenehm wie möglich zu machen. Bis zu deinem Zimmer gibt es 3
+            absperrbare Türen und video-überwachte Eingangstüren. Zusätzlich legt die Stadt Nürnberg ein besonderes
+            Augenmerk auf das Gebiet zwischen seinen beiden Museen, dem Germanischen Nationalmuseum an der Grasersgasse
+            und dem Neuen Museum am Klarissenplatz.
+          </div>
+          <div class="card-footer">
+            <button class="btn"><a href="#vorteile">Weniger erfahren</a></button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    {% include wg-tabelle.html %}
+    <br><br>
+    {% include banner.html %}
+    {% include footer.html %}
+
+
+
+  </div>
+  <amp-analytics>
+    <script type="application/json">
+      {
+        "transport": {
+          "xhrpost": false,
+          "beacon": true
+        },
+        "requests": {
+          "base": "https://${trackingServer}/b/ss/${accounts}/1/AMP-0.1/s${random}",
+          "pageView": "${base}?AQB=1&vid=CLIENT_ID(adobe_amp_id)&pageName=${pageName}&j=amp&AQE=1",
+          "buttonClick": "${base}?AQB=1&vid=CLIENT_ID(adobe_amp_id)&pageName=${pageName}&j=amp&pe=lnk_o&v1=${eVar1}&AQE=1"
+        },
+        "vars": {
+          "trackingServer": "metrics.example.com",
+          "accounts": "reportSuiteID",
+          "pageName": "Adobe Analytics Using amp-analytics tag"
+        },
+        "triggers": {
+          "pageLoad": {
+            "on": "visible",
+            "request": "pageView"
+          },
+          "click": {
+            "on": "click",
+            "selector": "button",
+            "request": "buttonClick",
+            "vars": {
+              "eVar1": "button clicked"
+            }
+          }
+        }
+      }
+    </script>
+  </amp-analytics>
+</body>
+
+</html>

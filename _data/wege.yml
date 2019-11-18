@@ -1,0 +1,71 @@
+-   name: Technische Hochschule Nürnberg
+    auto: 6
+    fahrrad: 6
+    zufuss: 18
+    oev: 12
+
+-   name: Friedrich-Alexander-Universität Findelgasse
+    auto: 7
+    fahrrad: 3
+    zufuss: 7
+    oev: 7
+
+-   name: Friedrich-Alexander-Universität Lange Gasse
+    auto: 8
+    fahrrad: 7
+    zufuss: 22
+    oev: 16
+
+-   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
+    auto: 25
+    fahrrad: 60
+    zufuss: 230
+    oev: 23
+
+-   name: Campus M21
+    auto: 3
+    fahrrad: 4
+    zufuss: 10
+    oev: 10
+
+-   name: Evangelische Hochschule Nürnberg
+    auto: 5
+    fahrrad: 7
+    zufuss: 21
+    oev: 12
+
+-   name: Akademie der Bildenden Künste Nürnberg
+    auto: 15
+    fahrrad: 20
+    zufuss: 60
+    oev: 27
+
+-   name: FOM Hochschule
+    auto: 3
+    fahrrad: 4
+    zufuss: 11
+    oev: 10
+
+-   name: Hochschule für Musik Nürnberg
+    auto: 10
+    fahrrad: 11
+    zufuss: 36
+    oev: 18
+
+-   name: IBS International Business School
+    auto: 5
+    fahrrad: 3
+    zufuss: 11
+    oev: 10
+
+-   name: ICN Business School
+    auto: 9
+    fahrrad: 8
+    zufuss: 20
+    oev: 13
+    
+-   name: TÜV Rheinland Akademie
+    auto: 12
+    fahrrad: 19
+    zufuss: 55
+    oev: 20

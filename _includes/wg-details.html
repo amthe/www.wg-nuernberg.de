@@ -1,0 +1,71 @@
+<section>
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>WG Info</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Etage</td>
+                <td>{{ page.wggeschoss }}</td>
+            </tr>
+            <tr>
+                <td>Quadratmeter</td>
+                <td>{{ page.wgqm }}</td>
+            </tr>
+            <tr>
+                <td>Mitbewohner</td>
+                <td>{{ page.wgzimmer | minus: 1}}</td>
+            </tr>
+            {% if page.wgterrasse == 1 %}<tr>
+                <td>Terrassenqm</td>
+                <td>{{ page.wgterrasse_qm }}</td>
+            </tr>{% endif %}
+            <tr>
+                <td>Bäder</td>
+                <td>{{ page.wgbaeder }}</td>
+            </tr>
+            <tr>
+                <td>Fahrrad</td>
+                <td>
+                    {% case page.wgfahrrad %}
+                    {% when 1 %}
+                    im Keller
+                    {% when 2 %}
+                    im Hof der Grasersgasse 21
+                    {% when 3 %}
+                    im Hof
+                    {% else %}
+                    This is not a cake nor a cookie
+                    {% endcase %}
+                </td>
+            </tr>
+            <tr>
+                <td>Waschen</td>
+                <td>
+                    {% case page.wgwaschen %}
+                    {% when 1 %}
+                    im Keller
+                    {% when 2 %}
+                    in der WG
+                    {% when 3 %}
+                    im Treppenhaus 3.OG
+                    {% when 4 %}
+                    im nächsten Haus 2.OG
+                    {% when 5 %}
+                    im nächsten Haus 1.OG
+                    {% else %}
+                    This is not a cake nor a cookie
+                    {% endcase %}
+                </td>
+            </tr>
+            <tr>
+                <td>Map</td>
+                <td><a href="https://www.openstreetmap.org/?mlat={{ page.objektlatitude }}&mlon={{ page.objektlongitude }}#map=19/{{ page.objektlatitude }}/{{ page.objektlongitude }}"
+                        class="btn">Karte</a></td>
+            </tr>
+        </tbody>
+    </table>
+</section>

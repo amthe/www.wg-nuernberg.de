@@ -1,0 +1,6 @@
+id,internal_id,param,strasse,hausnummer,latitude,longitude
+1,10.0.00,wg-sterngasse,Vordere Sterngasse,8-10,49.448174,11.077985
+2,09.0.00,wg-klaragasse,Klaragasse,9,49.448627,11.077738
+3,11.0.00,wg-grasersgasse-11,Grasersgasse,11,49.448093,11.077239
+4,15.0.00,wg-grasersgasse-15,Grasersgasse,15,49.448027,11.077445
+5,21.0.00,wg-grasersgasse-21,Grasersgasse,21,49.447943,11.077432
