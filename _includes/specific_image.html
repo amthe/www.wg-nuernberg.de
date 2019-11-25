@@ -1,9 +1,10 @@
 {% assign image_files = site.static_files %}
 {% for myimage in image_files %}
-    {% assign match_string = image_var %}
-    {% if myimage.path contains match_string %}
-    <amp-img src="{{ myimage.path | remove: myimage.name | append: '115-' | append: myimage.basename | append: myimage.extname}}" class="img-fit-cover" width="320" height="320" 
-    srcset="
+{% assign match_string = image_var %}
+{% if myimage.path contains match_string %}
+<amp-img
+    src="{{ myimage.path | remove: myimage.name | append: '115-' | append: myimage.basename | append: myimage.extname}}"
+    class="img-fit-cover" width="320" height="320" srcset="
             {{ myimage.path | remove: myimage.name | append: '115-' | append: myimage.basename | append: myimage.extname}} 115w,
             {{ myimage.path | remove: myimage.name | append: '320-' | append: myimage.basename | append: myimage.extname}} 320w,
             {{ myimage.path | remove: myimage.name | append: '640-' | append: myimage.basename | append: myimage.extname}} 640w,
@@ -11,7 +12,13 @@
             {{ myimage.path | remove: myimage.name | append: '1366-' | append: myimage.basename | append: myimage.extname}} 1366w,
             {{ myimage.path | remove: myimage.name | append: '1600-' | append: myimage.basename | append: myimage.extname}} 1600w,
             {{ myimage.path | remove: myimage.name | append: '1920-' | append: myimage.basename | append: myimage.extname}} 1920w,
-            "
-    ></amp-img>
-    {% endif %}    
+            "></amp-img>
+<!--
+<amp-img alt="webp" src="wg-stern-4-kueche-abend.webp" width="1024" height="768" layout="responsive"
+    srcset="wg-stern-4-kueche-abend.webp 500w">
+    <amp-img alt="fallback" fallback src="wg-stern-4-kueche-abend.jpg" width="1024" height="768"
+    layout="responsive" srcset="wg-stern-4-kueche-abend.jpg 500w"></amp-img>
+</amp-img>
+-->
+{% endif %}
 {% endfor %}

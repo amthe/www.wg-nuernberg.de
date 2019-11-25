@@ -55,7 +55,7 @@
     {{ content }}
     {% include zimmer-details.html %}
     <h2>Bilder von {{ page.zimmerid }}</h2>
-    {% assign append_var = "/zimmer/" | append: page.zimmerid %}
+    {% assign append_var = "/zimmer/" | append: page.zimmerid | append: "/" %}
     {% include images.html %}
     <h2>Grundrisse</h2>
     {% assign append_var = "/grundrisse/" %}

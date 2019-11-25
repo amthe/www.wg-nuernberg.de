@@ -1,7 +1,9 @@
 {% assign image_files = site.static_files %}
 {% for myimage in image_files %}
     {% assign match_string = "/assets/img/" | append: page.wgparam | append: append_var | append: "o_" %}
+    <!--{{ match_string }}-->
     {% if myimage.path contains match_string %}
+    
     <amp-img lightbox src="{{ myimage.path | remove: myimage.name | append: '115-' | append: myimage.basename | append: myimage.extname}}" class="img-fit-cover" width="115" height="115"
     srcset="
             {{ myimage.path | remove: myimage.name | append: '115-' | append: myimage.basename | append: myimage.extname}} 115w,
@@ -13,6 +15,8 @@
             {{ myimage.path | remove: myimage.name | append: '1920-' | append: myimage.basename | append: myimage.extname}} 1920w,
             "
     ></amp-img>
-    <!--{{ myimage.path }} | {{ myimage.path | remove: myimage.name | append: "115_" | append: myimage.basename | append: myimage.extname}}<br>-->
+    <!--
+    {{ myimage.path }} | {{ myimage.path | remove: myimage.name | append: "115_" | append: myimage.basename | append: myimage.extname}}<br>
+    -->
     {% endif %}    
 {% endfor %}
