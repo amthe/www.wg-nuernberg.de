@@ -4,654 +4,656 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
 <url>
   <loc>https://www.wg-nuernberg.de/</loc>
-  <lastmod>2020-11-04T12:34:13+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://www.wg-nuernberg.de/wg-stern-1/10102</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://www.wg-nuernberg.de/wg-gras-11-1/</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-11-2/</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-11-3/</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-15-1/</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-15-2/</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-15-3/</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-21-0/</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-21-1/</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-21-2/</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-gras-21-3/</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-klara-2/</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-klara-3/</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-klara-4/</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11103</loc>
-  <lastmod>2020-11-04T09:01:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11104</loc>
-  <lastmod>2020-11-04T09:01:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11105</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11106</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11107</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11108</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11109</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11210</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11211</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11212</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11213</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11214</loc>
-  <lastmod>2020-11-04T09:01:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11215</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11216</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11317</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11318</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11319</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11320</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11321</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15122</loc>
-  <lastmod>2020-11-04T09:01:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15123</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15124</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15125</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15126</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15127</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15228</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15229</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15230</loc>
-  <lastmod>2020-11-04T09:01:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15231</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15232</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15233</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15334</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15335</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15336</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15337</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15338</loc>
-  <lastmod>2020-11-04T09:01:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-0/21040</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-0/21041</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21142</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21143</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21144</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21145</loc>
-  <lastmod>2020-11-04T09:01:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21246</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21247</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21248</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21249</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21350</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21351</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21352</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21353</loc>
-  <lastmod>2020-11-04T09:01:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-2/9203</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-2/9204</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-2/9205</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-2/9206</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-2/9207</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-2/9208</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-3/9309</loc>
-  <lastmod>2020-11-04T09:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-3/9310</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-3/9311</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-3/9312</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-3/9313</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-3/9314</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-4/9415</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-4/9416</loc>
-  <lastmod>2020-11-04T09:01:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-4/9417</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-4/9418</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-4/9419</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-klara-4/9420</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wg-nuernberg.de/wg-stern-1/10102</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10103</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10104</loc>
-  <lastmod>2020-11-04T09:01:22+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10105</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10106</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10107</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10108</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10109</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10110</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10111</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10112</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10113</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10114</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10115</loc>
-  <lastmod>2020-11-04T09:01:23+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10116</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10117</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-1/10118</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11103</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11104</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11105</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11106</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11107</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11108</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-1/11109</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11210</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11211</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11212</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11213</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11214</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11215</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-2/11216</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11317</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11318</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11319</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11320</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-11-3/11321</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15122</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15123</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15124</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15125</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15126</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-1/15127</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15228</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15229</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15230</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15231</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15232</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-2/15233</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15334</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15335</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15336</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15337</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-15-3/15338</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-0/21040</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-0/21041</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21142</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21143</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21144</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-1/21145</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21246</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21247</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21248</loc>
+  <lastmod>2020-11-05T11:28:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-2/21249</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21350</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21351</loc>
+  <lastmod>2020-11-05T11:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21352</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-gras-21-3/21353</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-2/9203</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-2/9204</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-2/9205</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-2/9206</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-2/9207</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-2/9208</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-3/9309</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-3/9310</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-3/9311</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-3/9312</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-3/9313</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-3/9314</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-4/9415</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-4/9416</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-4/9417</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-4/9418</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-4/9419</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wg-nuernberg.de/wg-klara-4/9420</loc>
+  <lastmod>2020-11-05T11:28:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10206</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10207</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10208</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10209</loc>
-  <lastmod>2020-11-04T09:01:24+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10210</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10211</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10212</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10213</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10214</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-2/10215</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10316</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10317</loc>
-  <lastmod>2020-11-04T09:01:25+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10318</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10319</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10320</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10321</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10322</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10323</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10324</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-3/10325</loc>
-  <lastmod>2020-11-04T09:01:26+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10426</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10427</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10428</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10429</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10430</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10431</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.wg-nuernberg.de/wg-stern-4/10432</loc>
-  <lastmod>2020-11-04T09:01:27+00:00</lastmod>
+  <lastmod>2020-11-05T11:28:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
