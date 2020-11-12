@@ -20,6 +20,7 @@ defaults:
     values:
       image: true 
 
+# permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default.
