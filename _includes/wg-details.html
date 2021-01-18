@@ -9,7 +9,11 @@
         <tbody>
             <tr>
                 <td>Etage</td>
+                {% if page.wggeschoss == 0 %}
+                <td>Erdgeschoss</td>
+                {% else %}
                 <td>{{ page.wggeschoss }}</td>
+                {% endif %}
             </tr>
             <tr>
                 <td>Quadratmeter</td>
@@ -17,7 +21,7 @@
             </tr>
             <tr>
                 <td>Mitbewohner</td>
-                <td>{{ page.wgzimmer }}</td>
+                <td>{{ page.wgzimmer  | minus: 1 }}</td>
             </tr>
             {% if page.wgterrasse == 1 %}<tr>
                 <td>Terrassenqm</td>

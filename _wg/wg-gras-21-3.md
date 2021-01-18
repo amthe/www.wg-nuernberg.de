@@ -5,7 +5,7 @@ wgparam: wg-gras-21-3
 wgname: Gras
 wggeschoss: 3
 wgqm: 3
-wgzimmer: 3
+wgzimmer: 4
 wgterrasse: 0
 wgterrasse_qm: 0
 wgbaeder: 1
